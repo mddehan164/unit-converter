@@ -1,0 +1,27 @@
+.box{
+    width: 90vw;
+    height: 10vw;
+    background-color: aqua;
+    padding: 6vw 3vw;
+    font-size: 2vw;
+    text-align: center;
+}
+input{
+    width: 60%;
+    height: 40%;
+    font-size: 3vw;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 1vw;
+    border: none;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#equal{
+    font-size: 2vw;
+    font-weight: bold;
+
+}
